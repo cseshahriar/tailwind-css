@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseshahriar/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cseshahriar/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/cseshahriar/tailwind-css#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.22",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.1"
+  }
+}
